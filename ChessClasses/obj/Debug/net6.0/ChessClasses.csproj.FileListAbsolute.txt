@@ -1,0 +1,12 @@
+C:\Users\danie\Source\Repos\Chess\ChessClasses\bin\Debug\net6.0\ChessClasses.deps.json
+C:\Users\danie\Source\Repos\Chess\ChessClasses\bin\Debug\net6.0\ChessClasses.dll
+C:\Users\danie\Source\Repos\Chess\ChessClasses\bin\Debug\net6.0\ChessClasses.pdb
+C:\Users\danie\Source\Repos\Chess\ChessClasses\obj\Debug\net6.0\ChessClasses.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\Chess\ChessClasses\obj\Debug\net6.0\ChessClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Source\Repos\Chess\ChessClasses\obj\Debug\net6.0\ChessClasses.AssemblyInfoInputs.cache
+C:\Users\danie\Source\Repos\Chess\ChessClasses\obj\Debug\net6.0\ChessClasses.AssemblyInfo.cs
+C:\Users\danie\Source\Repos\Chess\ChessClasses\obj\Debug\net6.0\ChessClasses.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\Chess\ChessClasses\obj\Debug\net6.0\ChessClasses.dll
+C:\Users\danie\Source\Repos\Chess\ChessClasses\obj\Debug\net6.0\refint\ChessClasses.dll
+C:\Users\danie\Source\Repos\Chess\ChessClasses\obj\Debug\net6.0\ChessClasses.pdb
+C:\Users\danie\Source\Repos\Chess\ChessClasses\obj\Debug\net6.0\ref\ChessClasses.dll
